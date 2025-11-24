@@ -1,4 +1,0 @@
-name = "reportpredictor"
-main = "proxy-worker.js"
-workers_dev = true
-compatibility_date = "2024-01-01"
