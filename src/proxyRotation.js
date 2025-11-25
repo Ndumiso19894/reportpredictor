@@ -1,13 +1,13 @@
 // 🔥 Replace these with your Webshare details
-const username = "YOUR_USERNAME";
-const password = "YOUR_PASSWORD";
+const username = "dsotjcda";
+const password = "9v5acasa6tdg";
 
 // 🔥 Add all your proxies here
 const proxyList = [
-  { ip: "IP_1", port: "PORT_1" },
-  { ip: "IP_2", port: "PORT_2" },
-  { ip: "IP_3", port: "PORT_3" },
-  { ip: "IP_4", port: "PORT_4" },
+  { ip: "142.111.48.253", port: "7030" },
+  { ip: "31.59.20.176", port: "6754" },
+  { ip: "23.95.150.145", port: "6114" },
+  { ip: "198.23.239.134", port: "6540" },
   { ip: "IP_5", port: "PORT_5" }
 ];
 
